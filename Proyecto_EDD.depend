@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726465123 source:c:\users\abiel\onedrive\escritorio\proyectos\proyecto_edd\main.cpp
+	<iostream>
+	<stack>
+	<string>
+	<cmath>
+	<cctype>
+	<sstream>
+
